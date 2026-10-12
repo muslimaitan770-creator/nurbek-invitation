@@ -299,7 +299,7 @@ const EVENT = {
 
   // Номер WhatsApp: только цифры, с кодом страны.
   // Пример формата для Казахстана: 77001234567
-  whatsapp: "77001234567",
+  whatsapp: "+7 707 508 0877",
 
   // Вставь ссылку на место в Google Maps.
   mapUrl: "https://maps.google.com/?q=Astana"
