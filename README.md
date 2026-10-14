@@ -309,15 +309,15 @@ const EVENT = {
   date: "2026-11-07T19:00:00+05:00",
   dateText: "7 ноябрь 2026 года",
   timeText: "19:00",
-  venue: "Название ресторана",
-  address: "Адрес мероприятия",
+  venue: "183 квартира",
+  address: "Apple city",
 
   // Номер WhatsApp: только цифры, с кодом страны.
   // Пример формата для Казахстана: 87075080877
   whatsapp: "+7 707 508 0877",
 
   // Вставь ссылку на место в Google Maps.
-  mapUrl: "https://maps.google.com/?q=Astana"
+  mapUrl: "https://maps.app.goo.gl/Me7t3Csmw84sbxYF7?g_st=aw"
 };
 // ========================================
 
