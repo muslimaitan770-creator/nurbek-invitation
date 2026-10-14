@@ -15,6 +15,19 @@
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
+
+.header-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 2px solid #d8b66a;
+  padding: 4px;
+  margin-bottom: 24px;
+  box-shadow: 0 0 25px #d8b66a44;
+  position: relative;
+  z-index: 1;
+}
 body {
   margin: 0;
   color: #fff;
@@ -201,6 +214,8 @@ footer {
 <body>
 
 <header class="hero">
+   <img src="nurbek.jpeg" alt="Нурбек" class="header-photo">
+  
   <div class="eyebrow">A special evening</div>
   <h1>Нурбек</h1>
   <div class="age">38 ЛЕТ</div>
