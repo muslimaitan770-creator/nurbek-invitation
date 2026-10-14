@@ -316,7 +316,7 @@ const EVENT = {
   whatsapp: "+7 707 508 0877",
 
   // Вставь ссылку на место в Google Maps.
-  mapUrl: "https://maps.app.goo.gl/Me7t3Csmw84sbxYF7?g_st=aw"
+  mapUrl: "Apple City,жилой комплексhttps://2gis.kz/astana/geo/70030076193996397/71.428224,51.086588"
 };
 // ========================================
 
