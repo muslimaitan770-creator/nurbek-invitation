@@ -265,11 +265,11 @@ footer {
       <span id="timeText">Укажите время</span>
     </div>
     <div class="detail">
-      <b>МЕСТО</b>
+      <b>АДРЕС</b>
       <span id="venueText">Укажите название заведения</span>
     </div>
     <div class="detail">
-      <b>АДРЕС</b>
+      <b>МЕСТО</b>
       <span id="addressText">Укажите адрес мероприятия</span>
     </div>
   </div>
