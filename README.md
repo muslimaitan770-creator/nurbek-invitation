@@ -296,7 +296,7 @@ footer {
 
 <footer>WITH PLEASURE · NURBEK · 38</footer>
 
-<button class="music" id="musicButton"
+<button class="music" id="musicButton">♫</button>
         aria-label="Включить или выключить музыку"
         title="Музыка">♫</button>
 
