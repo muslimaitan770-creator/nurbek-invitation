@@ -300,7 +300,7 @@ footer {
         aria-label="Включить или выключить музыку"
         title="Музыка">♫</button>
 
-<audio id="music" src="./music.mp3" loop preload="auto"></audio>
+<audio id="music" src="music.mp3" loop preload="auto"></audio>
 
 <script>
 // ===== НАСТРОЙКИ: ИЗМЕНИ ЭТИ ДАННЫЕ =====
